@@ -1,10 +1,10 @@
 /*-----------------------------------------------------------------
 
-Template Name: Agznko - Creative Agency and Portfolio Html Template 
+Template Name: Bit Crawlers - Creative Agency 
 Author:  wordpressriver
 Author URI: https://themeforest.net/user/wordpressriver/portfolio
 Version: 1.0.0
-Description: Agznko - Creative Agency and Portfolio Html Template <
+Description: Bit Crawlers - Creative Agency <
 
 -------------------------------------------------------------------
 CSS TABLE OF CONTENTS
