@@ -1968,7 +1968,7 @@ span {
 }
 
 ::-webkit-scrollbar {
-  width: 4px;
+  width: 8px;
   height: 4px;
 }
 
